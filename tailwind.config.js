@@ -10,6 +10,7 @@ export default {
         "text-2": "#F5F5F5",
         "text-3": "#DCDCDC",
         "text-button": "#374151",
+        "bg-button": "#5093E2",
         "bg-footer": "#161619",
         "icon-footer": "#918E9B",
       },

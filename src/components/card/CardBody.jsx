@@ -10,12 +10,12 @@ export default function CardBody() {
         <h4 className="text-xs p-4 text-text-2">laurasmith.website</h4>
       </div>
       <div className="button flex justify-center gap-4">
-        <Button className="w-[115px] flex justify-center items-center gap-2 text-text-button">
+        <Button className="w-[115px] flex justify-center items-center gap-2 bg-white text-text-button">
           <FontAwesomeIcon icon={["fas", "envelope"]} />
           Email
         </Button>
-        <Button className="w-[115px] flex justify-center items-center gap-2 bg-blue-600 text-white">
-          <FontAwesomeIcon icon={["fab", "linkedin"]} className="" />
+        <Button className="w-[115px] flex justify-center items-center gap-2 text-white bg-blue-600">
+          <FontAwesomeIcon icon={["fab", "linkedin"]} />
           LinkedIn
         </Button>
       </div>
